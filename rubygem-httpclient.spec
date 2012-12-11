@@ -36,3 +36,10 @@ rm -rf %buildroot
 %doc %{ruby_gemdir}/doc/%{oname}-%{version}
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
+
+
+%changelog
+* Sat Oct 09 2010 Rémy Clouard <shikamaru@mandriva.org> 2.1.5.2-1mdv2011.0
++ Revision: 584435
+- import rubygem-httpclient
+
