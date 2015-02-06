@@ -3,7 +3,7 @@
 Summary:    Gives something like the functionality of libwww-perl (LWP) in Ruby
 Name:       rubygem-%{oname}
 Version:    2.1.5.2
-Release:    %mkrel 1
+Release:    2
 Group:      Development/Ruby
 License:    Ruby or GPLv2
 URL:        http://dev.ctor.org/httpclient
