@@ -6,7 +6,7 @@ Version:    2.1.5.2
 Release:    2
 Group:      Development/Ruby
 License:    Ruby or GPLv2
-URL:        http://dev.ctor.org/httpclient
+URL:        https://dev.ctor.org/httpclient
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}
 Requires:   rubygems
